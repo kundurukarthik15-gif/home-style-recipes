@@ -6,8 +6,7 @@ It lets users explore food categories, browse healthy menu items, and contact th
 ---
 
 ## 🌐 Live Demo
-👉 [View Website](https://your-username.github.io/home-style-recipes/)  
-*(Replace `your-username` with your GitHub username after deployment.)*
+👉 [View Website](https://github.com/kundurukarthik15-gif/home-style-recipes.git)  
 
 ---
 
