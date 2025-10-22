@@ -6,7 +6,7 @@ It lets users explore food categories, browse healthy menu items, and contact th
 ---
 
 ## 🌐 Live Demo
-👉 [View Website](https://github.com/kundurukarthik15-gif/home-style-recipes.git)  
+👉 [View Website](https://homestylerecipes.netlify.app/)  
 
 ---
 
